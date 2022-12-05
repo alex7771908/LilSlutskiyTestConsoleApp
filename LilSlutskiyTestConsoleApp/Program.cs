@@ -10,6 +10,8 @@ namespace LilSlutskiyTestConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Vladik!");
+            Console.ReadLine();
         }
     }
 }
