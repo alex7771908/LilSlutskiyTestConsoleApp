@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\bin\Debug\LilSlutskiyTestConsoleApp.exe.config
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\bin\Debug\LilSlutskiyTestConsoleApp.exe
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\bin\Debug\LilSlutskiyTestConsoleApp.pdb
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\obj\Debug\LilSlutskiyTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\obj\Debug\LilSlutskiyTestConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\obj\Debug\LilSlutskiyTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\obj\Debug\LilSlutskiyTestConsoleApp.exe
+C:\Users\Alex\source\repos\LilSlutskiyTestConsoleApp\LilSlutskiyTestConsoleApp\obj\Debug\LilSlutskiyTestConsoleApp.pdb
